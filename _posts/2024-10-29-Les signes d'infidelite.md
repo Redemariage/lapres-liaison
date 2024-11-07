@@ -6,10 +6,12 @@ image:
   thumbnail: /images/infidelite.webp
   caption: "Les signes pour savoir si elle te trompe"
 categories:
-  - infidelite
+  - Infidelite
+  - Homme
 tags:
-  - infidelite
-  - relation
+  - Infidelite
+  - Relation
+  - Homme
 last_modified_at: 2024-11-05T21:00:52-05:00
 ---
 # Les signes que ma femme me trompe

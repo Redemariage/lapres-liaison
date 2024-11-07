@@ -6,10 +6,12 @@ image:
   thumbnail: /images/decouverte-liaison.webp
   caption: "Comprendre la liaison émotionnelle"
 categories:
-  - infidelite
+  - Infidelite
+  - Homme
 tags:
-  - infidelite
-  - relation
+  - Infidelite
+  - Relation
+  - Homme
 last_modified_at: 2024-11-05T21:00:52-05:00
 ---
 Comment découvrir la vérité sur l'affaire émotionnelle de votre femme... Ce que les hommes doivent savoir pour éviter d'être entraînés petit à petit vers la séparation et le divorce.
