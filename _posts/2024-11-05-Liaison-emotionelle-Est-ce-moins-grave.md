@@ -3,7 +3,7 @@ title: "Liaison Émotionnelle: Est-ce Moins Grave?"
 author: "Guillaume"
 image: 
   path: /images/infidelite-hero.png
-  thumbnail: /images/decouverte-liaison.webp
+  thumbnail: /images/femme-distanct.jpg
   caption: "Comprendre la liaison émotionnelle"
 categories:
   - Infidelite
@@ -37,5 +37,18 @@ En fait, c'est pourquoi les femmes pensent qu'il est inoffensif de flirter avec 
 En termes simples, les liaisons émotionnelles ne sont que des liaisons qui ne sont pas encore devenues physiques, mais l'intimité sexuelle est toujours présente dans l'esprit de ceux qui sont impliqués dans les liaisons émotionnelles. Les personnes impliquées dans des liaisons émotionnelles passent des heures interminables à se laisser aller à des fantasmes romantiques et sexuels. Donc, contrairement à ce que pensent certaines personnes, les liaisons émotionnelles impliquent toujours le sexe car il y a toujours une composante sexuelle en fond. Ainsi, ce n'est pas une question de savoir si une liaison émotionnelle deviendra physique, c'est juste une question de quand.
 
 En fin de compte, quand les gens trompent, ils mentent aussi — et quand ils se font prendre, ils continueront de mentir et vous diront ce qu'ils pensent que vous voulez entendre. Les hommes savent que s'ils se font prendre en train de tromper, les femmes veulent entendre que l'affaire ne concernait que le sexe. De même, les femmes savent que les hommes veulent entendre exactement le contraire, à savoir que l'affaire était seulement émotionnelle et non sexuelle. La vérité est que les femmes préparent généralement leurs maris au fait qu'elles ont des relations sexuelles en dehors du mariage en avouant d'abord une implication émotionnelle ou des "sentiments" pour un autre homme. C'est ainsi que les femmes "adoucissent le coup".
+
+
+*******************************
+
+# Et vous, où en êtes-vous ?
+
+<div style="background-color: lightblue; padding: 10px; border-radius: 5px;">
+💡 Prenez le temps de faire honnêtement le point sur votre mariage et votre situation pour vous en sortir au mieux. <br><br>
+La lecture de ce site sur l'infidélité féminine et sa communauté de soutien peuvent vous faire gagner des mois (ou des années) de souffrance inutile. <br><br>
+Vous apprendrez pourquoi il est si difficile pour les femmes de mettre fin et de surmonter leurs aventures... et les 7 étapes que les femmes doivent suivre pour mettre fin à leur liaison et se réinvestir dans le mariage.
+</div>
+
+[//]: # "TODO: lien pour livre sur infidelite"
 
 [//]: # "TODO: Insert links"

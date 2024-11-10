@@ -115,6 +115,18 @@ Si vous ne pouvez pas obtenir de réponse directe et le réconfort dont vous ave
 Un mot pour les âmes lasses
 En fin de compte, il n'y a aucun moyen de confirmer ou d'infirmer vos soupçons avec ces seuls signes. Vous pouvez soit les confronter à ce sujet, soit les prendre en flagrant délit de manière dévastatrice.
 
+*******************************
+
+# Et vous, où en êtes-vous ?
+
+<div style="background-color: lightblue; padding: 10px; border-radius: 5px;">
+💡 Prenez le temps de faire honnêtement le point sur votre mariage et votre situation pour vous en sortir au mieux. <br><br>
+La lecture de ce site sur l'infidélité féminine et sa communauté de soutien peuvent vous faire gagner des mois (ou des années) de souffrance inutile. <br><br>
+Vous apprendrez pourquoi il est si difficile pour les femmes de mettre fin et de surmonter leurs aventures... et les 7 étapes que les femmes doivent suivre pour mettre fin à leur liaison et se réinvestir dans le mariage.
+</div>
+
+[//]: # "TODO: lien pour livre sur infidelite"
+
 [//]: # "TODO: Je vous recommande donc de lire cet article sur la façon de démasquer un tricheur."
 
 
