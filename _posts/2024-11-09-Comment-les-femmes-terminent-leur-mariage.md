@@ -16,7 +16,6 @@ last_modified_at: 2024-11-06T21:00:52-05:00
 ---
 Saviez-vous qu'il existe deux façons distinctes de mettre fin à une relation ? Découvrez le style passif que les femmes utilisent pour divorcer de leurs maris.
 
-
 # Pourquoi les femmes s'extraient prudemment des relations 
 
 Dans son livre, "Transitions", William Bridges pose la question suivante à ses lecteurs : 

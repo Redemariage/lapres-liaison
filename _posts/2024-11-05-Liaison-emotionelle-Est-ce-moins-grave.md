@@ -3,7 +3,7 @@ title: "Liaison Émotionnelle: Est-ce Moins Grave?"
 author: "Guillaume"
 image: 
   path: /images/infidelite-hero.png
-  thumbnail: /images/femme-distanct.jpg
+  thumbnail: /images/femme-distante.jpg
   caption: "Comprendre la liaison émotionnelle"
 categories:
   - Infidelite
