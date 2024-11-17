@@ -70,12 +70,7 @@ Parce que les hommes à l'étape 4 ont franchi le seuil de « plus de douleur qu
 
 Faites une évaluation honnête pour déterminer si vous pensez pouvoir gérer votre peur et votre anxiété par vous-même. Si vous vous sentez hors de contrôle et que votre comportement est devenu compulsif, ne tardez pas à obtenir le soutien et les instructions étape par étape dont vous avez besoin pour sauver votre mariage.
 
-<div style="background-color: lightblue; padding: 10px; border-radius: 5px;">
-💡 Prenez le temps de faire honnêtement le point sur votre mariage et votre situation pour vous en sortir au mieux. <br><br>
-La lecture de ce site sur l'infidélité féminine et sa communauté de soutien peuvent vous faire gagner des mois (ou des années) de souffrance inutile. <br><br>
-Vous apprendrez pourquoi il est si difficile pour les femmes de mettre fin et de surmonter leurs aventures... et les 7 étapes que les femmes doivent suivre pour mettre fin à leur liaison et se réinvestir dans le mariage.
-</div>
-
-[//]: # "TODO: lien pour livre sur infidelite"
+<*******************************
+{% include cta.html %}
 
 [//]: # "TODO: Si vous n'avez pas lu les livres sur l'infidélité féminine, c'est là que vous devez commencer. Vous découvrirez exactement ce que pense, ressent et prévoit votre femme - afin que vous puissiez cesser d'analyser et cesser de fonctionner avec une mentalité qui mène au divorce."

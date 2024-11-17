@@ -67,13 +67,4 @@ Les femmes qui ont choisi le divorce et étaient au début d'une nouvelle relati
 
 
 *******************************
-
-# Et vous, où en êtes-vous ?
-
-<div style="background-color: lightblue; padding: 10px; border-radius: 5px;">
-💡 Prenez le temps de faire honnêtement le point sur votre mariage et votre situation pour vous en sortir au mieux. <br><br>
-La lecture de ce site sur l'infidélité féminine et sa communauté de soutien peuvent vous faire gagner des mois (ou des années) de souffrance inutile. <br><br>
-Vous apprendrez pourquoi il est si difficile pour les femmes de mettre fin et de surmonter leurs aventures... et les 7 étapes que les femmes doivent suivre pour mettre fin à leur liaison et se réinvestir dans le mariage.
-</div>
-
-[//]: # "TODO: lien pour livre sur infidelite"
+{% include cta.html %}

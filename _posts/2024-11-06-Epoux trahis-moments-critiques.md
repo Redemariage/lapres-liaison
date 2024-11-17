@@ -1,10 +1,10 @@
 ---
-title: "Infidélité féminine : Époux Trahis - Faites le point"
+title: "Infidélité féminine : 3 moments critiques pour sauver votre mariage"
 author: "Guillaume"
 image: 
   path: /images/infidelite-hero.png
   thumbnail: /images/mari-face-cassee.webp
-  caption: "Comprendre la liaison émotionnelle"
+  caption: "Vous avez le temps de sauver votre mariage"
 categories:
   - Infidelite
   - Homme
@@ -16,7 +16,7 @@ last_modified_at: 2024-11-06T21:00:52-05:00
 ---
 Mari trompé... Je sais que vous êtes confus et que vous ne savez pas quoi faire, mais ne paniquez pas. Apprenez comment prendre les bonnes mesures dans le bon ordre pour sauver votre mariage.
 
-# Maitrisez 3 moments critiques pour sauver votre mariage.
+# Maitrisez ces 3 moments critiques pour sauver votre mariage.
 
 
 Il y a beaucoup d'informations fausses et contradictoires circulant sur ce que vous devriez ou ne devriez pas faire après avoir découvert l'infidélité de votre femme. Il peut donc être difficile de savoir ce qui pourrait fonctionner et ce qui pourrait en réalité aggraver les choses. 
@@ -78,4 +78,5 @@ Si vous n'avez pas lu les livres sur l'infidélité féminine, c'est là que vou
 
 Vous découvrirez exactement ce que pense, ressent et prévoit votre femme - afin que vous puissiez cesser d'analyser et cesser de fonctionner avec une mentalité et un mode de pensées qui mène au divorce. 
 
-[//]: # "TODO: lien pour livre sur infidelite"
+*******************************
+{% include cta.html %}
