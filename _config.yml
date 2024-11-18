@@ -18,7 +18,7 @@ remote_theme: "mmistakes/so-simple-theme@3.2.0"
 skin: "/assets/css/skins/default.css"
 locale: fr-FR
 title: "L'après-liaison"
-description: "Articles et ressources pour guérir, se reconstruire et avancer après une infidélité."
+description: "Articles et ressources pour guérir, se reconstruire et avancer après une infidélité féminine ou autres périodes difficiles en couple."
 baseurl: # the subpath of your site, e.g. "/blog"
 #url: "https://redemariage.github.io/lapres-liaison" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 url: "https://lapres-liaison.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"

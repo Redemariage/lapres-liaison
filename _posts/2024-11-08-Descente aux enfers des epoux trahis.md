@@ -39,7 +39,8 @@ Malheureusement, les hommes à la deuxième étape tentent d'éviter le véritab
 
 Comme tant de femmes qui essaient de déchiffrer le comportement masculin, ces hommes ne sont pas conscients que l'analyse est un mécanisme de défense. Nous sommes tous enclins, ou du moins tentés, d'analyser lorsque nous essayons d'éviter des sentiments douloureux. Par exemple, l'analyse et la pensée circulaire sont toutes deux courantes dans la première étape du deuil, le déni. Apprenez à maîtriser les 3 "moments critiques" et à récupérer votre femme.
 
-[//]: # "TODO: insert link to articels moments critiques"
+{% assign post_url = '/infidelite/homme/Epoux-trahis-moments-critiques/' %}
+{% include link-to-post.html %}
 
 (Note : Le comportement des hommes aux première et deuxième étapes est généralement passif, complaisant et conciliant.)
 
@@ -70,7 +71,7 @@ Parce que les hommes à l'étape 4 ont franchi le seuil de « plus de douleur qu
 
 Faites une évaluation honnête pour déterminer si vous pensez pouvoir gérer votre peur et votre anxiété par vous-même. Si vous vous sentez hors de contrôle et que votre comportement est devenu compulsif, ne tardez pas à obtenir le soutien et les instructions étape par étape dont vous avez besoin pour sauver votre mariage.
 
-<*******************************
+*******************************
 {% include cta.html %}
 
 [//]: # "TODO: Si vous n'avez pas lu les livres sur l'infidélité féminine, c'est là que vous devez commencer. Vous découvrirez exactement ce que pense, ressent et prévoit votre femme - afin que vous puissiez cesser d'analyser et cesser de fonctionner avec une mentalité qui mène au divorce."

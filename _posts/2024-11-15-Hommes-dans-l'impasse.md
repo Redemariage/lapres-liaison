@@ -15,12 +15,10 @@ tags:
 last_modified_at: 2024-11-06T21:00:52-05:00
 ---
 
-Voici les 4 principales raisons pour lesquelles les hommes se sentent coincés dans leur vie et/ou leur relation, et ce, d'autant plus en cas d'adultère.
+Voici les 5 principales raisons pour lesquelles les hommes se sentent coincés dans leur vie et/ou leur relation, et ce, d'autant plus en cas d'adultère.
 
 ****************************************
-# 4 principales raisons pour lesquelles les hommes sont dans l'impasse:
-
-
+# 5 principales raisons pour lesquelles les hommes sont dans l'impasse:
 
 ## 1. Ils ne se valorisent pas
 
@@ -53,21 +51,43 @@ Quand votre femme vous "teste" à cause de son insécurité ou de votre manque d
 Et quand elle est émotionnellement immature et peu sûre d'elle... l'homme doit compenser (quelqu'un doit le faire, sinon la relation ne fonctionne tout simplement pas). Mais aussi, s'il ne se valorise pas... il reste avec une mauvaise personne. Et finalement, elle finira par utiliser l'homme.
 
 Ou alors, il se tournera vers elle pour qu'elle le rassure sur lui-même et lui dise qu'il est un bon garçon ou un chic-type. Il tirera cette énergie maternelle d'elle. Elle ne peut pas être votre amante si elle est votre mère. Et si elle doit être votre mère... elle n'aura pas l'impression qu'il est un grand protecteur fort qui peut tout écraser dans le monde. Elle percevra qu'elle a fait le mauvais choix.
+
 Et ces deux scénarios mènent au point n°4
 
-## 4. Il n'a pas de vision plus grande de lui pour l'avenir
+## 4. Il ne sais pas commnuniquer
+Non seulement il ne comprend pas les besoins de sa partenaire ni ne sait se réguler émotionnellement, mais en plus, il ne sait bien souvent pas communiquer non plus.
 
-Et tout cela est symptomatique du fait qu'il n'a pas d'orientation solide pour sa vie. Une orientation autour de laquelle il peut contextualiser tous ses comportements. Une orientation qui dicte le genre de personnes qu'il laisse entrer dans sa vie... parce que s'il ne le fait pas...
-Cette vision passe à la trappe avec les exigences de tout le monde.
+Il se retrouve pris dans un cercle vicieux où chaque parole échangée devient une source de malentendus.
 
-Pourquoi ? Parce qu'il ne se valorise pas, il ne comprend pas que les femmes ont besoin de ressentir cette vision pour être en sécurité, et il a peu ou pas de maîtrise de soi émotionnelle pour faire avancer les choses quand il n'en a pas envie, ou si sa femme perd la tête ou lui prend la tête pendant la journée.
+Il fuit souvent les discussions importantes, redoutant la confrontation, ce qui mène à un silence lourd et des non-dits.
+
+Cette absence de communication crée une frustration qui se transforme en ressentiment, rendant chaque sujet plus difficile à aborder.
+
+Il n'est pas rare qu'il prenne les choses personnellement ou réagisse de manière disproportionnée, se sentant attaqué sans raison. Plutôt que d'écouter et d'exprimer ses besoins de manière claire, il se ferme, attendant que l'autre devine ce qu'il ressent. Ce manque d'assertivité et de transparence devient un véritable poison pour la relation.
+
+Et, plus il évite de parler de ce qui le perturbe, plus il laisse place à des frustrations qui finiront par exploser sous forme de critiques ou de reproches. En refusant d'exprimer ses émotions ou de partager ses pensées, il crée une distance qui érode lentement la connexion avec sa partenaire et contribue à ajouter une brique au mur qui les sépare.
+
+{% assign post_url = '/homme/communication/Cavaliers-apocalypse-communication/' %}
+{% include link-to-post.html %}
+
+Ce qui nous amène au point n°5
+
+## 5. Il n'a pas de vision plus grande de lui pour l'avenir
+
+Et tout cela est symptomatique du fait qu'il n'a pas d'orientation et un système de valeurs solide pour sa vie, autour desquels il peut contextualiser tous ses comportements. Une orientation qui dicte le genre de personnes qu'il laisse entrer dans sa vie... parce que s'il ne le fait pas... Ses valeurs seraient une boussole dans sa prise de décisions.
+Cette vision passe à la trappe avec les exigences pour tout le monde.
+
+Pourquoi ? Parce qu'il ne se valorise pas, il ne comprend pas que les femmes ont besoin de ressentir cette vision pour être en sécurité, et il a peu ou pas de maîtrise de soi émotionnelle pour faire avancer les choses quand il n'en a pas envie, ou si sa femme perd la tête ou lui prend la tête pendant la journée et qu'il abdique dans sa commnunication.
 
 Il est constamment paralysé, et donc toute la dynamique sexuelle et son bonheur général disparaissent. Il se traîne chaque jour en se disant : "C'est ma vie... c'est dur... mais c'est ma vie" et ne fait absolument rien pour changer les choses...
+
+
 
 # Un Homme est souvent dans l'impasse car:
 * il ne se valorise pas
 * il ne comprend pas les femmes
 * il n'a aucune maîtrise de soi émotionnelle
+* il ne sais pas comminuquer 
 * sa vision n'a pas beaucoup d'importance pour lui. 
 
 *******************************
