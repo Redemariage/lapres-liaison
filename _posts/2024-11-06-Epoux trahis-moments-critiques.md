@@ -6,10 +6,10 @@ image:
   thumbnail: /images/mari-face-cassee.webp
   caption: "Vous avez le temps de sauver votre mariage"
 categories:
-  - Infidelite
+  - Infidélité
   - Homme
 tags:
-  - Infidelite
+  - Infidélité
   - Relation
   - Homme
 last_modified_at: 2024-11-06T21:00:52-05:00

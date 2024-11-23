@@ -6,10 +6,10 @@ image:
   thumbnail: /images/decouverte-liaison.webp
   caption: "Comprendre la liaison émotionnelle"
 categories:
-  - Infidelite
+  - Infidélité
   - Homme
 tags:
-  - Infidelite
+  - Infidélité
   - Relation
   - Homme
 last_modified_at: 2024-11-06T21:00:52-05:00
@@ -58,7 +58,7 @@ Les femmes à l'étape 3 peuvent également être en train de mettre fin à une 
 
 Croyant avoir pris conscience de ce qu'elles veulent et ont besoin d'un partenaire, les femmes à cette étape accorderont souvent la plus grande importance à trouver une "nouvelle" relation qui leur donnera le même sentiment qu'elles ont connu dans leurs aventures. Une nouvelle relation avec un nouveau partenaire représentera également une nouvelle chance pour ces femmes de retrouver leur statut de "gentille fille". Certaines femmes chercheront de nouveaux partenaires pendant leur séparation. D'autres retourneront dans leur mariage, mais pas émotionnellement, et continueront toujours à chercher. Certaines femmes reprendront des relations sexuelles sporadiques avec leurs maris pour sauvegarder leur mariage jusqu'à ce qu'elles prennent une décision. Bien qu'elles ne soient souvent pas sexuellement attirées par leurs maris, le désir est temporairement ravivé lorsqu'elles soupçonnent que leurs maris sont infidèles, envisagent l'infidélité, ou montrent des signes de poursuite de leur vie.
 
-{% assign post_url = '/infidelite/homme/Comment-les-femmes-terminent-leur-mariage/' %}
+{% assign post_url = '/infid%C3%A9lit%C3%A9/homme/Comment-les-femmes-terminent-leur-mariage/' %}
 {% include link-to-post.html %}
 
 ## Étape 4: Épilogue

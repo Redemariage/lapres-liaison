@@ -6,10 +6,10 @@ image:
   thumbnail: /images/H-descente-enfer.webp
   caption: "Les horreurs de la spirale de la trahison"
 categories:
-  - Infidelite
+  - Infidélité
   - Homme
 tags:
-  - Infidelite
+  - Infidélité
   - Relation
   - Homme
 last_modified_at: 2024-11-06T21:00:52-05:00
@@ -39,7 +39,7 @@ Malheureusement, les hommes à la deuxième étape tentent d'éviter le véritab
 
 Comme tant de femmes qui essaient de déchiffrer le comportement masculin, ces hommes ne sont pas conscients que l'analyse est un mécanisme de défense. Nous sommes tous enclins, ou du moins tentés, d'analyser lorsque nous essayons d'éviter des sentiments douloureux. Par exemple, l'analyse et la pensée circulaire sont toutes deux courantes dans la première étape du deuil, le déni. Apprenez à maîtriser les 3 "moments critiques" et à récupérer votre femme.
 
-{% assign post_url = '/infidelite/homme/Epoux-trahis-moments-critiques/' %}
+{% assign post_url = '/infid%C3%A9lit%C3%A9/homme/Epoux-trahis-moments-critiques/' %}
 {% include link-to-post.html %}
 
 (Note : Le comportement des hommes aux première et deuxième étapes est généralement passif, complaisant et conciliant.)

@@ -6,10 +6,10 @@ image:
   thumbnail: /images/femme-distante.jpg
   caption: "Comprendre la liaison émotionnelle"
 categories:
-  - Infidelite
+  - Infidélité
   - Homme
 tags:
-  - Infidelite
+  - Infidélité
   - Relation
   - Homme
 last_modified_at: 2024-11-05T21:00:52-05:00

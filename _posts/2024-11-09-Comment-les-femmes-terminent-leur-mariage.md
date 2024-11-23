@@ -6,10 +6,10 @@ image:
   thumbnail: /images/fin-mariage.webp
   caption: "Découvrez l'approche passive que les femmes utilisent pour divorcer de leurs maris."
 categories:
-  - Infidelite
+  - Infidélité
   - Homme
 tags:
-  - Infidelite
+  - Infidélité
   - Relation
   - Homme
 last_modified_at: 2024-11-06T21:00:52-05:00

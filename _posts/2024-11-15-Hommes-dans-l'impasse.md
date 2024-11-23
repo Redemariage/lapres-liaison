@@ -87,7 +87,7 @@ Il est constamment paralysé, et donc toute la dynamique sexuelle et son bonheur
 * il ne se valorise pas
 * il ne comprend pas les femmes
 * il n'a aucune maîtrise de soi émotionnelle
-* il ne sais pas comminuquer 
+* il ne sais pas communiquer 
 * sa vision n'a pas beaucoup d'importance pour lui. 
 
 *******************************
