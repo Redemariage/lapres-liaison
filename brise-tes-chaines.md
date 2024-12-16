@@ -1,6 +1,6 @@
 ---
-#layout: posts
-title: "Reprends le contrôle de ta vie après une trahison"
+layout: standalone
+title: "Brisé après une trahison ?"
 author: "Guillaume"
 last_modified_at: 2024-11-06T21:00:52-05:00
 ---
@@ -80,7 +80,7 @@ last_modified_at: 2024-11-06T21:00:52-05:00
 <body>
   <div class="content-container">
     <div class="title-background">
-      <h1>Vous vous sentez brisé après une trahison ?</h1>
+      <h1>Brisé après une trahison ?</h1>
       <h2>Reprenez le contrôle de votre vie dès aujourd’hui</h2>
     </div>
 

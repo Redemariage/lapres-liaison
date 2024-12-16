@@ -80,7 +80,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-feed
   - jekyll-paginate
-  #- jekyll-google-analytics  #seems to work without this with my otehr modifications updating hte code in scripts.html dealing with google_analytics code
+  #- jekyll-google-analytics  #seems to work without this with my other modifications updating hte code in scripts.html dealing with google_analytics code
 
 # Front Matter Defaults
 defaults:
