@@ -5,11 +5,10 @@ author: "Guillaume"
 last_modified_at: 2024-11-06T21:00:52-05:00
 sitemap: false
 ---
-<html lang="fr">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Merci et Félicitations</title>
+  <title>{{ page.title }}</title>
   <style>
     body {
       margin: 0;
@@ -73,6 +72,5 @@ sitemap: false
     <p>Merci de nous faire confiance. Nous sommes là pour vous soutenir à chaque étape.</p>
   </div>
 </body>
-</html>
 
 

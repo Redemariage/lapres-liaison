@@ -1,15 +1,14 @@
 ---
 layout: standalone
-title: "Brisé après une trahison ?"
+title: "Brisé ? Reprenez le contrôle"
 author: "Guillaume"
 last_modified_at: 2024-11-06T21:00:52-05:00
 ---
 
-<html lang="fr">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Reprenez le contrôle</title>
+  <title>{{ page.title }}</title>
   <style>
     body {
       margin: 0;
@@ -99,4 +98,3 @@ last_modified_at: 2024-11-06T21:00:52-05:00
 
   </div>
 </body>
-</html>
