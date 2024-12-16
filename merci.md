@@ -1,5 +1,5 @@
 ---
-#layout: posts
+layout: standalone
 title: "Merci"
 author: "Guillaume"
 last_modified_at: 2024-11-06T21:00:52-05:00
