@@ -75,6 +75,7 @@ last_modified_at: 2024-11-06T21:00:52-05:00
       border-radius: 10px;
     }
   </style>
+  {% include head-custom.html %}
 </head>
 <body>
   <div class="content-container">

@@ -58,6 +58,7 @@ sitemap: false
       color: #ffdf00;
     }
   </style>
+  {% include head-custom.html %}
 </head>
 <body>
   <div class="content-container">
