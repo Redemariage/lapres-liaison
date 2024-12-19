@@ -132,7 +132,7 @@ last_modified_at: 2024-11-06T21:00:52-05:00
       </div>
       <div class="testimonial-item">
         <img src="/images/people/Louis.png" alt="Photo de client">
-        <p>“Je me sens enfin à nouveau moi-même et en capaciter d'agir. Hautement recommandé !”</p>
+        <p>“Je me sens enfin à nouveau moi-même, et en capacité d'agir. Hautement recommandé !”</p>
         <div class="stars">★★★★★</div>
       </div>
       <div class="testimonial-item">
