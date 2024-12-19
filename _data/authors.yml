@@ -2,9 +2,9 @@
 # Remove file or replace with your own
 
 Guillaume:
-  name: Coach G.
-  picture: /images/coach-G-photo.png
-  avatar: /images/coach-G-photo.png
+  name: Guillaume
+  picture: /images/people/coach-G-photo.png
+  avatar: /images/people/coach-G-photo.png
   #twitter: "ur;"
   links:
     - title: Instagram

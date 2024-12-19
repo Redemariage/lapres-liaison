@@ -49,6 +49,37 @@ last_modified_at: 2024-11-06T21:00:52-05:00
       color: green;
       margin-right: 10px;
     }
+    .testimonials {
+      margin: 30px 0;
+      text-align: center;
+    }
+    .testimonials h3 {
+      margin-bottom: 20px;
+    }
+    .testimonial-item {
+      display: inline-block;
+      width: 30%;
+      margin: 0 1.5%;
+      background-color: rgba(255, 255, 255, 0.9);
+      padding: 10px;
+      border-radius: 10px;
+      color: #000;
+      box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    }
+    .testimonial-item img {
+      width: 60px;
+      height: 60px;
+      border-radius: 50%;
+      margin-bottom: 10px;
+    }
+    .testimonial-item p {
+      font-size: 0.9em;
+      margin-bottom: 10px;
+    }
+    .stars {
+      color: #f1c40f;
+      font-size: 1.2em;
+    }
     .cta-box {
       text-align: center;
       margin: 30px 0;
@@ -91,6 +122,26 @@ last_modified_at: 2024-11-06T21:00:52-05:00
       <li>Comment redevenir rapidement l’homme sûr de lui, impossible à ignorer.</li>
     </ul>
 
+    <!-- Testimonials Block -->
+    <div class="testimonials">
+      <h3>Ce que disent nos participants :</h3>
+      <div class="testimonial-item">
+        <img src="/images/people/Matthieu.png" alt="Photo de client">
+        <p>“Travailler avec Guillaume m’a sauvé la vie ! Merci pour ton aide précieuse.”</p>
+        <div class="stars">★★★★★</div>
+      </div>
+      <div class="testimonial-item">
+        <img src="/images/people/Louis.png" alt="Photo de client">
+        <p>“Je me sens enfin à nouveau moi-même et en capaciter d'agir. Hautement recommandé !”</p>
+        <div class="stars">★★★★★</div>
+      </div>
+      <div class="testimonial-item">
+        <img src="/images/people/Nicolas.png" alt="Photo de client">
+        <p>“Une méthode puissante et pratique pour se relever rapidement et dignement. Merci Guillaume”</p>
+        <div class="stars">★★★★★</div>
+      </div>
+    </div>
+
     <div class="cta-box">
       <p>Ne laissez pas la douleur vous contrôler plus longtemps.</p>
       <p><strong>Recevez dès maintenant votre formation gratuite et découvrez la méthode PARIS pour maîtriser vos émotions.</strong></p>
@@ -99,3 +150,4 @@ last_modified_at: 2024-11-06T21:00:52-05:00
 
   </div>
 </body>
+
