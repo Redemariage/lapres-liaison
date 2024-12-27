@@ -171,6 +171,26 @@ last_modified_at: 2024-11-06T21:00:52-05:00
       margin: 20px auto;
       border-radius: 10px;
     }
+    /* Styles for the FAQ section */
+    .faq-section {
+      margin-top: 40px; /* Space from the form */
+      background-color: rgba(255, 255, 255, 0.9);
+      color: #000;
+      padding: 20px;
+      border-radius: 10px;
+    }
+    .faq-question {
+      cursor: pointer;
+      margin-bottom: 10px;
+      border-bottom: 1px solid #ddd; /* Subtle separator */
+      padding-bottom: 5px;
+      font-weight: bold;
+    }
+    .faq-answer {
+      display: none; /* Initially hide the answers */
+      margin-left: 20px; /* Indentation for answers */
+      margin-bottom: 15px;
+    }
   </style>
   {% include head-custom.html %}
 </head>
@@ -191,29 +211,26 @@ last_modified_at: 2024-11-06T21:00:52-05:00
         Obtenir ma formation gratuite
       </button>
     </div>
-
-    <p class="benefits-intro">
-      Vous traversez une période difficile après une rupture ou une trahison&nbsp;? 
+    <div class="social-proof">
+      <p>Si tu lis ces lignes, c'est que tu traverses probablement une période difficile. <br> Rupture, trahison... La douleur est immense, je le sais. </p> <p>C'est pour aider des hommes comme toi que j'ai créé <b>lapres-liaison.com</b></p>
       
-      Vous n’êtes pas seul. 
-      Depuis plus de 2 ans, j’accompagne des d’hommes à surmonter la douleur et à retrouver la maîtrise de leurs émotions. 
-      Dans cette formation en 3 jours, je vous donne un plan clair et concret pour reconstruire votre confiance et reprendre votre vie en main.
-    </p>
-
-    <h3><strong>Voici comment se déroulent les 3 jours :</strong></h3>
+      <p><strong>Vous n’êtes pas seul. Vous n’êtes PLUS seul. </strong></p>
+      Depuis plus de 2 ans, j’accompagne des d’hommes à surmonter la douleur et à retrouver la maîtrise de leurs émotions. <br>
+      <p>Dans cette formation en 3 jours, je vous donne un plan clair et concret pour reconstruire votre confiance et reprendre votre vie en main.</p>
+    </div>
+    <h3><strong>Voici comment se déroulent les 3 jours de formation:</strong></h3>
     <ul class="benefits-list">
-      <li><strong>Jour 1 :</strong> Comment soulager votre douleur instantanément et faire le premier pas vers la résilience.</li>
-      <li><strong>Jour 2 :</strong> Comment obtenir enfin des réponses a vos question pour paver un avenir plus clair.</li>
-      <li><strong>Jour 3 :</strong> Comment redevenir l’homme sûr de lui, impossible à ignorer, et avancer avec sérénité, sans la supplier.</li>
+      <li><strong>Jour 1 :</strong> Comment <b>soulager votre douleur instantanément</b> et faire le premier pas vers la résilience.</li>
+      <li><strong>Jour 2 :</strong> <b>"Pourquoi moi ?"</b>: Les questions fusent.  Comprenez enfin les raisons profondes de cette épreuve et libérez-vous du poids des "et si...".  </li>
+      <li><strong>Jour 3 :</strong> Apprenez à <b>tirer les leçons</b> de cette expérience douloureuse. Découvrez comment identifier vos schémas relationnels et construire un avenir plus sain et plus épanouissant.</li>
     </ul>
-
     <!-- Petit bloc de social proof supplémentaire -->
     <div class="social-proof">
-      <strong>J'ai déjà aidé plus d’une centaine d’hommes</strong> à se relever de situations similaires : 
+      <strong>J'ai aidé plus d’une centaine d’hommes</strong> à se relever de situations similaires : 
       <li>perte de confiance,</li>
       <li>angoisses après une trahison,</li>
       <li>peurs de se reconstruire… </li>
-      <br><strong>Résultat :</strong> ils ont pu reprendre le contrôle de leurs émotions et franchir cette épreuve avec plus de clarté et de force.
+      <br><strong>Résultat :</strong> ils ont pu reprendre le contrôle de leurs émotions et franchir cette épreuve avec plus de clarté et de force. Lis leurs témoignages, ils sont inspirants ! 👇
     </div>
 
     <!-- Testimonials Block -->
@@ -247,6 +264,8 @@ last_modified_at: 2024-11-06T21:00:52-05:00
     <div class="cta-box">
       <p><strong>Vous aussi, libérez-vous de la souffrance et reconstruisez-vous plus fort que jamais.</strong></p>
       <p><em>Inscrivez-vous gratuitement dès maintenant pour découvrir la méthode PARIS et maîtriser vos émotions.</em></p>
+
+      <p><em style="font-style: italic;">"N'attends pas ; les solutions existent. Ne fais pas de la souffrance ton choix."</em> Coach Guillaume</p>
     </div>
 
     <!-- Visible container that wraps the form -->
@@ -257,5 +276,41 @@ last_modified_at: 2024-11-06T21:00:52-05:00
         src="https://sg-autorepondeur.com/plugins/form/widget.js">
       </script>
     </div>
+    
+    <div class="faq-section">
+      <h3>Foire aux questions</h3>
+      <div class="faq-question">➤  À qui s'adresse cette formation ?</div>
+      <div class="faq-answer">Cette formation est conçue pour les hommes qui ont vécu une rupture ou une trahison et qui cherchent à surmonter la douleur, à reprendre confiance en eux et à avancer sereinement dans leur vie.</div>
+
+      <div class="faq-question">➤ Qui ne devrait PAS suivre la formation ?</div>
+      <div class="faq-answer"> Cette formation n'est pas adaptée si tu es suicidaire, en urgence psychiatrique ou si tu préfères te plaindre et ne rien faire pour changer ta situation. <br> J'accompagne uniquement les personnes motivées et prêtes à s'investir dans leur développement personnel. "Aide toi et le ciel t'aidera."</div>
+
+      <div class="faq-question">➤  Est-ce que cette formation convient à tous les types de ruptures ?</div>
+      <div class="faq-answer">Oui, que vous ayez vécu une séparation amoureuse, une infidélité, ou une trahison amicale, la formation vous donnera des outils pour gérer vos émotions et reconstruire votre vie.</div>
+
+      <div class="faq-question">➤ Est-ce que cette formation est vraiment gratuite ?</div>
+      <div class="faq-answer">Oui, trop d'hommes souffrent seuls et en silence. La formation vous donne accès à des conseils concrets pour vous aider à vous relever. Elle est suivie d'une invitation à rejoindre ma toute nouvelle initiative: une communauté facebook gratuite de soutien. <br>Ceci est une offre de lancement. Je ne sais pas combien de temps cela durera.</div>
+
+      <div class="faq-question"> ➤ Combien de temps faut-il pour voir les premiers résultats ?</div>
+      <div class="faq-answer">Laformule PARIS est extrêmement efficace et a déjà aidé des hommes en situation de blocage complet, parfois depuis des années. Ceci dit, PARIS n'est pas une formule miracle puisqu'elle requiert de la pratiquer régulièrement (particulièrement au début) pour avoir un effet profond et durable. On n'a rien sans rien. Mais l'investissement en vaut la chandelle</div>
+
+      <div class="faq-question">➤ Je ne suis pas sûr d'être prêt à m'engager dans une formation. Que faire ?</div>
+      <div class="faq-answer">C'est aussi pourquoi elle n'est que de 3 jours. <br>L'indécision est la pire des situations. Tu peux choisir de continuer à souffrir ou choisir de travailler sur toi. Le choix est tien. Tu n'as rien à perdre et tout à gagner.</div>
+
+      <div class="faq-question">➤ En quoi la méthode PARIS est-elle différente des autres approches ?</div>
+      <div class="faq-answer">La méthode PARIS est une séquence unique. Elle rassemble les meilleurs outils, optimisés pour une efficacité maximale. Tu ne trouveras cette synergie nulle part ailleurs.</div>
+    </div>
   </div>
+
+  <script>
+    // JavaScript to toggle FAQ answers
+    const questions = document.querySelectorAll('.faq-question');
+
+    questions.forEach(question => {
+      question.addEventListener('click', () => {
+        const answer = question.nextElementSibling;
+        answer.style.display = answer.style.display === 'block' ? 'none' : 'block';
+      });
+    });
+  </script>
 </body>
